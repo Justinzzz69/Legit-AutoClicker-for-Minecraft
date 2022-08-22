@@ -2,4 +2,4 @@
 
 setting Hotkeys;
 Disable AC while Shifting;
-legit 5 to 20 clicks;
+legit 5 to 25 clicks;
