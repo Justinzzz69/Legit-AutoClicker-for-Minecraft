@@ -1,0 +1,13 @@
+C:\Users\Justin\Desktop\trash\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\Justin\Desktop\trash\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\Justin\Desktop\trash\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.Form1.resources
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.cache
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.pdb
+C:\Users\Justin\Desktop\trash\Autoclicker\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Justin\Desktop\trash\Autoclicker\obj\Debug\Autoclicker.csproj.CopyComplete
